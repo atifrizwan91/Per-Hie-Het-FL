@@ -1,3 +1,5 @@
+# Hierarchical Heterogeneous Federated Learning
+![](https://github.com/atifrizwan91/Greenhouse/blob/main/Images/1.PNG)
 # Requirements
 ## Python Libraries
  Install python 3.8.5 and following libraries
@@ -23,3 +25,4 @@ Set configuration in config.json file as follows
 }
 ```
 # Start Federated Learning
+Start  `server.py` to start server and `Controller.py` to start all clients.
