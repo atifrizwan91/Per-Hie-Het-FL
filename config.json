@@ -1,0 +1,9 @@
+{
+  "client_epochs" : 5,
+  "server_epochs" : 100,
+  "number_of_clients" : 10,
+  "TrainingModel" : "thermal",
+  "server_dir" : "./Server-Dir",
+  "clients" :["Common","India", "Italy", "Pakistan", "Philippines", "Portugal", "Singapore", "Sweden", "Thailand", "Tunisia","UK"],
+  "common_features_nodes": null
+}
