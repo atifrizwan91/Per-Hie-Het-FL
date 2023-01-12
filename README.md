@@ -1,5 +1,5 @@
 # Hierarchical Heterogeneous Federated Learning
-![](https://github.com/atifrizwan91/Greenhouse/blob/main/Images/1.PNG)
+![](https://github.com/atifrizwan91/Per-Hie-Het-FL/blob/main/Images/FL-arch.png)
 # Requirements
 ## Python Libraries
  Install python 3.8.5 and following libraries
